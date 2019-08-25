@@ -1,0 +1,49 @@
+* {
+	margin: 0px;
+	padding:0px;
+}
+
+
+body{
+		background:url(../img/cd.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+
+
+
+
+	.container{
+	width: 550px;
+	margin: 10% auto;}
+
+	.login-section
+
+
+	.login-section img{
+
+
+	}
+
+	.login-section h3{
+		color: black
+
+
+	}
+
+
+	.form-control{
+
+
+	}
+
+	.btn{
+		
+		margin: auto;
+  width: 10%;
+  border: 3px solid green;
+  padding: 2px;
+  text-align: center;
+
+	}
